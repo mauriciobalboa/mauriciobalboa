@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EM_EVOLUÇÃO_CONSTANTE-ec4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SEMPRE_CURIOSO-2b2b2b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-MONKEY_CODING-ec4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ALWAYS_CURIOUS-2b2b2b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TS_%7C_REACT_%7C_GO_%7C_SQL-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BRASIL-0f9d58?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BRAZIL-0f9d58?style=for-the-badge" />
 </p>
 
 ---
